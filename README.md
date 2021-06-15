@@ -1,2 +1,2 @@
-# gyukim.github.io
+# gyuyaam.github.io
 My Portfolio
