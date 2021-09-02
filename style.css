@@ -81,3 +81,11 @@ a:active {
     background-color:bisque;
     box-shadow: none;
 }
+
+.sapsucker {
+    background-size: cover;
+}
+
+.taro {
+    background-size:cover;
+}
