@@ -91,11 +91,11 @@ a:active {
 }
 
 .home {
-     top: 20px;
-    right: 20px;
-    text-decoration: none;
-     border: 1px solid #444545;
-     color:#444545;
-     padding: 5px;
-    text-align: right;
+     top: 20px !important;
+    right: 20px !important;
+    text-decoration: none !important;
+     border: 1px solid #444545 !important;
+     color:#444545 !important;
+     padding: 5px !important;
+    text-align: right !important;
 }
