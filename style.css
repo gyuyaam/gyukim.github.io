@@ -55,6 +55,7 @@ h2 {
 }
 
 a {
+    position: absolute;
 }
 
 /*.navigation {
