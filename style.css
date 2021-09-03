@@ -55,7 +55,9 @@ h2 {
 }
 
 a {
-    float: right;
+    position: absolute;
+    top: 0px;
+    right: 0px;
 }
 
 /*.navigation {
