@@ -26,6 +26,7 @@ a {
     border: 1px solid #444545;
     color:#444545;
     padding: 5px;
+    display: inline-block;
 }
 
 a:hover {
