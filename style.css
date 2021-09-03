@@ -55,7 +55,13 @@ h2 {
 }
 
 a {
-   
+     top: 20px;
+    right: 20px;
+    text-decoration: none;
+     border: 1px solid #444545;
+     color:#444545;
+     padding: 5px;
+    text-align: right;
 }
 
 /*.navigation {
@@ -93,14 +99,4 @@ a:active {
 
 .taro {
     background-size:cover;
-}
-
-.home {
-     top: 20px;
-    right: 20px;
-    text-decoration: none;
-     border: 1px solid #444545;
-     color:#444545;
-     padding: 5px;
-    text-align: right;
 }
