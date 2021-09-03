@@ -58,7 +58,7 @@ a {
     padding: 10px;
     margin: 40px 120px 0px;
     width: 25%;
-    /*float: right;*/
+    float: left;
     font-size: 30px;
     text-decoration: none;
     border-radius: 30px;
