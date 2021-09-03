@@ -58,14 +58,14 @@ h2 {
     padding: 10px;
     margin: 20px 10px 20px;
     width: 25%;
-    /*float: left;*/
+    float: left;
     font-size: 30px;
     text-decoration: none;
-    /*border-radius: 30px;*/
+    border-radius: 30px;
     background-color:#CEABB1;
     color: #444545;
     display: inline;
-    /*clear: both;*/
+    clear: both;
     box-shadow: 5px 5px;
     text-align: center;
     font-family: Roboto;
