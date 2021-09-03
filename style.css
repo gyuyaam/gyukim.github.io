@@ -58,13 +58,13 @@ a {
     padding: 10px;
     margin: 40px 120px 0px;
     width: 25%;
-    float: left;
+    /*float: left;*/
     font-size: 30px;
     text-decoration: none;
-    border-radius: 30px;
+    /*border-radius: 30px;*/
     background-color:#CEABB1;
     color: #444545;
-    display: inline-block;
+    display: inline;
     clear: both;
     box-shadow: 5px 5px;
     text-align: center;
