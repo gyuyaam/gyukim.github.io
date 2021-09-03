@@ -53,6 +53,11 @@ h2 {
     float: left;
     text-align: center;
 }
+
+a {
+    float: right;
+}
+
 /*.navigation {
     border: 1px solid #CEABB1;
     padding: 10px;
