@@ -91,4 +91,11 @@ a:active {
 }
 
 .home {
+     top: 20px;
+    right: 20px;
+    text-decoration: none;
+     border: 1px solid #444545;
+     color:#444545;
+     padding: 5px;
+    text-align: right;
 }
