@@ -19,7 +19,7 @@ h3 {
 }
 
 a {
-    position: absolute;
+    position: static;
     top:20px;
     right: 20px;
     text-decoration: none;
