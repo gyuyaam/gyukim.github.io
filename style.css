@@ -64,7 +64,7 @@ a {
     border-radius: 30px;
     background-color:#CEABB1;
     color: #444545;
-    display: block;
+    display: inline-block;
     clear: right;
     box-shadow: 5px 5px;
     text-align: center;
