@@ -56,7 +56,7 @@ h2 {
 a {
     border: 1px solid #CEABB1;
     padding: 10px;
-    margin: 40px 120px 0px;
+    margin: 20px 10px 20px;
     width: 25%;
     /*float: left;*/
     font-size: 30px;
@@ -65,7 +65,7 @@ a {
     background-color:#CEABB1;
     color: #444545;
     display: inline;
-    clear: both;
+    /*clear: both;*/
     box-shadow: 5px 5px;
     text-align: center;
     font-family: Roboto;
