@@ -65,7 +65,7 @@ a {
     background-color:#CEABB1;
     color: #444545;
     display: inline-block;
-    clear: right;
+    clear: both;
     box-shadow: 5px 5px;
     text-align: center;
     font-family: Roboto;
