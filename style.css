@@ -20,13 +20,13 @@ header {
 
 body {
     background-color: #C5E0D8;
-    color: #444545;
+    /*color: #444545;
     height: 100%;
     margin: 0 auto;
     overflow-x: hidden;
     width: 100%;
     text-rendering: optimizeLegibility;
-    -webkit-font-smoothing: antialiased;
+    -webkit-font-smoothing: antialiased;*/
 }
 
 .pfp {
